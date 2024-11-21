@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eeway
-- 👀 I’m interested in Machine Learning, Computer Vision, Deep Learning
+- 👀 I’m interested in Computer Vision, Deep Learning
 - 🌱 I’m currently learning Machine Learning and Computer Vision
 
 
