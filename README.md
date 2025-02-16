@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eeway
-- 👀 I’m interested in Golang
+- 👀 I’m interested in Golang and Web development
 
 
 <!---
